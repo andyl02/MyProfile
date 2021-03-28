@@ -7,6 +7,10 @@
   box-shadow: 3px 3px 10px rgba(0, 0, 0, 0.5);
 }
 
+
+
+
+
 body {
   padding: 70px 0px;
   text-align: justify;
@@ -17,9 +21,10 @@ body {
   background-color: lightgrey;
   width: 700px;
   margin: auto;
-  background-image: url("CSS/23.jpg");
-  background-size: cover;
-  background-repeat: no-repeat;
+  display: flex;
+  background: rgb(43,219,146);
+  background: radial-gradient(circle, rgba(43,219,146,1) 0%, rgba(16,224,135,0.9836309523809523) 35%, rgba(15,194,208,1) 100%);
+
 
 }
 
