@@ -11,7 +11,9 @@
   text-align: center;
 }
 
+.logic {
 
+}
 
 body {
   padding: 70px 0px;
@@ -26,8 +28,6 @@ body {
   display: flex;
   background: rgb(43,219,146);
   background: radial-gradient(circle, rgba(43,219,146,1) 0%, rgba(16,224,135,0.9836309523809523) 35%, rgba(15,194,208,1) 100%);
-
-
 }
 
 .heading {
@@ -46,10 +46,11 @@ body {
 }
 
 .studentinfo {
-  text-align: center;
+  text-align: left;
   font-size: 11px;
   color: black;
   line-height: 1.5em;
+  color: black;
 }
 
 a:link {
