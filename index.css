@@ -1,12 +1,5 @@
 @import url('https://fonts.googleapis.com/css2?family=Poppins:wght@300&display=swap');
 
-* {
-  margin: 0;
-  padding: 0;
-  box-sizing: border-box;
-  list-style: none;
-  text-align: center;
-}
 
 body {
   font-size: 11px;
@@ -14,23 +7,23 @@ body {
   color: #555555;
   font-family: "Poppins";
   background-color: #e8e8e8;
-  width: 100% 600px;
-  height: auto;
-  bottom: 0px;
-  top: 0px;
-  left: 0;
-  position: absolute;
+  width: 700px;
+  margin: auto;
   text-align: center;
-  width: 500px;
+  background-image: url("CSS/23.jpg");
+  background-size: cover;
+  background-repeat: no-repeat;
+
 
 
 }
 
 .heading  {
-  text-align: center;
+  text-align: left;
   text-transform: uppercase;
   letter-spacing: .3em;
   color: gray;
+  line-height: 0.3em;
 
 }
 
@@ -44,6 +37,7 @@ body {
   text-align: center;
   font-size: 11px;
   color: black;
+  line-height: 1.5em;
 }
 
 a:link {
