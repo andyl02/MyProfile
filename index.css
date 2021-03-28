@@ -7,7 +7,9 @@
   box-shadow: 3px 3px 10px rgba(0, 0, 0, 0.5);
 }
 
-
+.job {
+  text-align: center;
+}
 
 
 
@@ -57,13 +59,4 @@ a:link {
 
 a:hover {
   color: gray;
-}
-
-.row {
-  display: flex;
-}
-
-.column {
-  flex: 33.33%;
-  padding: 5px;
 }
