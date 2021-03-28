@@ -1,24 +1,29 @@
 @import url('https://fonts.googleapis.com/css2?family=Poppins:wght@300&display=swap');
 
+.background {
+  background-color: white;
+  padding: 20px;
+  border-radius: 0px;
+  box-shadow: 3px 3px 10px rgba(0, 0, 0, 0.5);
+}
 
 body {
+  padding: 70px 0px;
+  text-align: justify;
   font-size: 11px;
   line-height: 22px;
-  color: #555555;
+  color: #808080;
   font-family: "Poppins";
-  background-color: #e8e8e8;
+  background-color: lightgrey;
   width: 700px;
   margin: auto;
-  text-align: center;
   background-image: url("CSS/23.jpg");
   background-size: cover;
   background-repeat: no-repeat;
 
-
-
 }
 
-.heading  {
+.heading {
   text-align: left;
   text-transform: uppercase;
   letter-spacing: .3em;
