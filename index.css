@@ -12,7 +12,7 @@
 }
 
 .logic {
-position: absolute;
+position: grid;
 right: 580px;
 top: 90px;
 
