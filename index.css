@@ -12,11 +12,9 @@
 }
 
 .logic {
-  position: absolute;
-  top: 0;
-  right: 0%;
-  padding: 0;
-  margin: 0;
+position: absolute;
+right: 580px;
+top: 90px;
 
 }
 
